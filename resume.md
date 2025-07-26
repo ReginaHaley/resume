@@ -3,74 +3,59 @@
 
 📍 Texas, USA  
 📧 [reginahaley15@gmail.com]  
-🔗 [Portfolio](https://github.com/ReginaHaley)  
-🔗 [Resume PDF](./Regina_Haley_Resume.pdf)
+🔗 [GitHub](https://github.com/ReginaHaley) | 🔗 [LinkedIn](https://linkedin.com/in/reginahaley)
+
 
 ---
 
-## 🎯 Summary
+## 🎯 Objective
 
-Detail-oriented and self-taught data analyst with experience in remote work environments. Skilled in SQL, Python (pandas), and Excel for analyzing business data and uncovering insights. Actively building real-world projects and pursuing an apprenticeship to grow into a full-time data analytics role and eventually into AI engineering.
+Motivated and detail-oriented professional transitioning into data analytics with a strong foundation in SQL, Python and Excel. Demonstrates a proven ability to work remotely, manage data-driven tasks and communicate insights effectively. Seeking a remote/hybrid data analyst apprenticeship or position to deepen analytical skills, contribute to meaningful projects and grow within a supportive team environment. Driven by a deep passion for data sparked by personal exploration, I am fully committed to transforming this calling into a meaningful and long-term career in data analytics.
 
----
-
-## 💼 Skills
-
-- SQL (SELECT, JOINs, Group By, Subqueries)
-- Python (pandas, matplotlib, sqlite3)
-- Microsoft Excel (PivotTables, Charts)
-- DB Browser for SQLite
-- Remote communication & collaboration
 
 ---
 
-## 🧪 Projects
+## 💻 Technical Skills
 
-### 📊 [Customer Insights (Python)](https://github.com/ReginaHaley/Jupyter-customer-data)  
-Used pandas to analyze customer age and email patterns from a CSV file and visualize insights.
+- **Data Analysis Tools:** SQL (MySQL, SQLite), Excel (PivotTables, Charts, Formulas), Python (Pandas, functions, loops)  
+- **Business Intelligence:** Data cleaning, reporting, visualizations, real-world problem solving  
+- **Project Tools:** GitHub, VS Code, DB Browser, Trello  
+- **Soft Skills:** Remote collaboration, critical thinking, written communication, self-learning  
 
-### 🗃️ [SQL Employees & Customers](https://github.com/ReginaHaley/SQLdatabase)  
-Queried a relational database with JOINs, filtering, and aggregates using SQLite.
-
-### 📈 [Excel Project Management Dashboard](https://github.com/ReginaHaley/excel-project-management-analysis)  
-Used PivotTables and charts to visualize project distribution across departments.
 
 ---
 
-## 👩‍💻 Professional Experience
+## 📂 Projects & Portfolio
 
-**Remote Customer Support – Tivly**  
-*Remote | Dec 2023 – Jun 2024*  
-- Handled high volumes of inbound calls from business owners seeking insurance  
-- Qualified leads and matched them with appropriate providers  
-- Connected customers with licensed agents for policy consultations and quotes  
-- Maintained accurate call records and lead tracking within internal systems  
-- Participated in weekly Zoom meetings and one-on-one performance check-ins  
-- Demonstrated professionalism and reliability in a fully remote, phone-based environment
+🔗 [GitHub Portfolio](https://github.com/ReginaHaley/data-portfolio)
 
----
-
-**Owner & Operator – King Chams**  
-*Remote | Dec 2018 – Dec 2023*  
-- Operated a high-volume reptile breeding business housing over 200 chameleons  
-- Designed and maintained a business website and social media presence  
-- Handled customer communication via phone, email, and text  
-- Coordinated time-sensitive FedEx overnight shipping nationwide  
-- Educated clients, schools, and facilities on chameleon husbandry practices  
-- Managed daily animal care including feeding, hydration, cleaning, and health checks  
-- Marketed and sold animals to zoos, reptile houses, schools, and private collectors
+**SQL + Excel: Self-Directed Data Analysis Projects**
+- Designed and queried relational databases simulating customer and employee data  
+- Cleaned and updated datasets using SQL subqueries and JOIN operations  
+- Created pivot tables and charts in Excel to analyze project efficiency and resource allocation  
+- Wrote clear documentation and insights to reflect real-world decision-making scenarios  
 
 ---
 
-**Administrative Assistant – Grainger Terry Inc.**  
-*Chicago, IL | Jan 2012 – Jan 2017*  
-- Provided administrative support in a fast-paced political consulting and PR office  
-- Took detailed notes during client and internal meetings  
-- Drafted and edited press releases, newsletters, and internal documents  
-- Maintained relationships with press contacts and coordinated media communications  
-- Managed print production from quotes to delivery  
-- Entered and maintained accurate contact and campaign data across multiple systems
+## 💼 Professional Experience
 
+**Remote Customer Support | Tivly** — *Remote | Dec 2023 – Jun 2024*  
+- Weekly meeting covering data on lead conversions and customer behavior  
+- Used internal databases to update and manage customer records accurately  
+- Regularly collaborated with remote team members through Zoom and Slack to align on performance metrics  
+- Developed strong communication skills and adapted quickly to new tools and systems  
+
+**Owner & Operator | King Chams** — *Remote | Dec 2018 – Dec 2023*  
+- Managed a data-driven breeding operation of over 200 animals, including tracking care schedules and health metrics (genetics, breeding lines, lineage)  
+- Designed and maintained website and social media analytics for customer engagement  
+- Coordinated FedEx logistics using spreadsheets for order tracking and route planning  
+- Educated customers through digital channels with how-to guides and breeding programs  
+
+**Administrative Assistant | Grainger Terry Inc** — *Chicago, IL | Jan 2012 – Jan 2017*  
+- Compiled and managed contact databases across client campaigns  
+- Drafted press releases and reports based on target audience and client goals  
+- Proofed and organized logistics for printed communications using detail-oriented workflows  
+- Built long-term press and client relationships through consistent, reliable communication  
 
 ---
 
@@ -89,4 +74,5 @@ Used PivotTables and charts to visualize project distribution across departments
 
 ## 📄 Downloadable Resume
 
-[📥 PDF Version](./Regina_Haley_Resume.pdf)
+📄 [View My Resume (PDF)](https://github.com/ReginaHaley/resume/blob/main/Regina_Haley_Data_Analyst_Resume.pdf)
+
